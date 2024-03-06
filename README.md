@@ -27,7 +27,7 @@ The Anime Image dataset used in this project can be found [here](https://www.kag
 
 5. Generate new anime images using the trained model
 
-##Results
+## Results
 
 Sample generated images will be available in the `result.png`.
 
