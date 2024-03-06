@@ -31,7 +31,7 @@ The Anime Image dataset used in this project can be found [here](https://www.kag
 
 Sample generated images will be available in the `result.png`.
 
-Implementation Details
+## Implementation Details
 
 This implementation of DCGAN with self-attention mechanism introduces self-attention blocks within the generator and discriminator architectures. The self-attention mechanism helps the model focus on important regions of the input images during both generation and discrimination processes, leading to improved image quality and stability during training.
 
