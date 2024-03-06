@@ -1,0 +1,8 @@
+ipython==8.15.0
+ipython==8.18.1
+ipython==7.31.1
+matplotlib==3.7.2
+matplotlib==3.5.1
+numpy==1.21.5
+torch==2.1.0
+torchvision==0.16.0
